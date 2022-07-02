@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Randomizer</string>
+    <string name="message_error_validate_input_blank">Please, input valid integer</string>
+    <string name="message_error_validate_integer_zero">Integer must be greater than zero</string>
+    <string name="message_error_validate_integer_max">Min must be less than Max</string>
+    <string name="placeholder_input_integer">placeholder_input_integer</string>
+    <string name="label_input_min_integer">Input min integer value</string>
+    <string name="label_input_max_integer">Input max integer value</string>
+    <string name="fragment_input_header">"Previous random value: "</string>
+    <string name="button_text_randomize">RANDOMIZE</string>
+    <string name="button_text_return">RETURN</string>
+    <string name="fragment_result_header">"Result value: "</string>
+    <string name="result_didnt_randomize">"did not randomize"</string>
+</resources>
